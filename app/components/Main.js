@@ -102,7 +102,7 @@ const styles = StyleSheet.create({
     zIndex: 11,
     right: 10,
     bottom: 80,
-    backgroundColor: 'darkcyan',
+    backgroundColor: 'darkred',
     width: 60,
     height: 50,
     borderRadius: 10,
